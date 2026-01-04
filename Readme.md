@@ -1,6 +1,6 @@
 ## 📋 FEATURE POINTERS - Current Demo Features
 
-### ✅ FEATURE 0: Full Research Paper Generation (MAIN FEATURE)
+### ✅ FEATURE 1: Full Research Paper Generation (MAIN FEATURE)
 - **6-page Academic Paper** with complete structure
 - **GitHub Project Integration** - Analyzes code repositories for methodology
 - **DOI-Verified Citations** - IEEE, APA, MLA, Chicago, Harvard, Vancouver formats
@@ -15,7 +15,7 @@
   - Conclusion
   - References (DOI-verified)
 
-### ✅ FEATURE 1: Multi-Format Citation Generation
+### ✅ FEATURE 2: Multi-Format Citation Generation
 - **6 Academic Formats**:
   - APA (American Psychological Association)
   - MLA (Modern Language Association)
@@ -27,7 +27,7 @@
 - Proper author formatting
 - Year sorting (newest first)
 
-### ✅ FEATURE 2: Dual Research Modes
+### ✅ FEATURE 3: Dual Research Modes
 **Mode 1: Normal Research**
 - Uses web articles, blogs, news, general content
 - Mixed source citations (URLs, web links)
@@ -41,7 +41,7 @@
 - Best for: Academic papers, literature reviews
 - **Zero hallucination** - every reference traceable
 
-### ✅ FEATURE 3: DOI-Verified Academic Sources
+### ✅ FEATURE 4: DOI-Verified Academic Sources
 - **ArXiv**: Open-access preprints
 - **PubMed**: Biomedical literature
 - **Semantic Scholar**: AI-powered research database
@@ -49,7 +49,7 @@
 - Automatic author extraction
 - Citation count tracking
 
-### ✅ FEATURE 4: Multi-Agent Research Pipeline
+### ✅ FEATURE 5: Multi-Agent Research Pipeline
 **Architecture**:
 1. **Planner Agent** - Breaks query into sub-questions
 2. **Executor Agents** - Parallel information gathering
@@ -61,14 +61,14 @@
 - STORM multi-agent system (Shao et al., 2024)
 - RAG architecture (Lewis et al., 2020)
 
-### ✅ FEATURE 5: Export Capabilities
+### ✅ FEATURE 6: Export Capabilities
 - **PDF Export** - Professional formatting with PyMuPDF
 - **Word Export** - Editable DOCX with python-docx
 - **Markdown Preservation** - Citations, tables, formatting
 - **Academic Styling** - Professional document templates
 - URL encoding for special characters
 
-### ✅ FEATURE 6: Document-Based Research
+### ✅ FEATURE 7: Document-Based Research
 - **Local File Support**: PDF, TXT, MD, DOCX, CSV, Excel, PowerPoint
 - **RAG Processing** - Retrieval-Augmented Generation
 - **Privacy-First** - Documents never leave your system
@@ -78,7 +78,7 @@
 
 ## 🚀 FUTURISTIC FEATURES (Test Files - Next Phase)
 
-### 🔬 FEATURE 7: Advanced Humanization Engine
+### 🔬 FEATURE 8: Advanced Humanization Engine
 **File**: `test_humanization.py`
 
 **Capabilities**:
@@ -93,7 +93,7 @@
 - **Citation Preservation** - DOI and references stay intact
 - **Idempotence** - Stable across multiple runs
 
-### 📄 FEATURE 8: IEEE Template Integration
+### 📄 FEATURE 9: IEEE Template Integration
 **File**: `test_word_template.py`
 
 **Advanced Word Processing**:
@@ -105,7 +105,7 @@
 - **Re-ingestion Capability** - Import edited Word docs back
 - **Iterative Editing** - Update single sections without regenerating
 
-### 🧠 FEATURE 9: Project Context Intelligence
+### 🧠 FEATURE 10: Project Context Intelligence
 **File**: `test_project_context.py`
 
 **Smart Project Understanding**:
@@ -117,7 +117,7 @@
 - **PDF/Document Upload** - Analyze research papers, documentation
 - **Multi-Source Synthesis** - Combines GitHub + docs + papers
 
-### 🔄 FEATURE 10: End-to-End Workflow Automation
+### 🔄 FEATURE 11: End-to-End Workflow Automation
 **File**: `test_integration_workflow.py`
 
 **Complete Paper Pipeline**:
@@ -142,7 +142,7 @@
    - Rollback capability
    - Section updates
 
-### 📊 FEATURE 11: Paper Drafting Agent
+### 📊 FEATURE 12: Paper Drafting Agent
 **File**: `test_paper_features.py`
 
 **Intelligent Paper Construction**:
